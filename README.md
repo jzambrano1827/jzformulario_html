@@ -1,15 +1,15 @@
-# 🌐 Formulario Web con API REST y PostgreSQL
+# Formulario Web con API REST y PostgreSQL
 
 Este proyecto es una aplicación web que permite registrar usuarios mediante un formulario HTML. Los datos son enviados a una API REST construida en Node.js y almacenados en una base de datos PostgreSQL.
 
-## ⚙️ Requisitos
+## Requisitos
 
 - Node.js y npm
 - PostgreSQL
 - Visual Studio Code
 - Extensión Live Server (para el frontend)
 
-## 🧑‍💻 Pasos para ejecutar el proyecto
+## Pasos para ejecutar el proyecto
 
 ### Clonar el repositorio
 
